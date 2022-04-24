@@ -2,11 +2,11 @@
 title: "Third Post"
 date: 2022-04-24T15:27:24+01:00
 cover:
-    image: "kim_jae_woon.jpg"
+    image: "noodles.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "alt"
-    caption: "girl"
+    alt: "noodles"
+    caption: "noodle"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ---
