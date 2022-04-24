@@ -1,6 +1,5 @@
 +++
 date = 2022-04-23T23:00:00Z
-draft = true
 tags = []
 title = "Forestry Test"
 
