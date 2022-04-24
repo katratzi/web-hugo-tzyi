@@ -6,3 +6,5 @@ title = "Forestry Test"
 
 +++
 And this is a new post done via the Forestry CMS
+
+![](/uploads/face-and-red-hair.jpg)
