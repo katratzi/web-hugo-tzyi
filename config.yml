@@ -8,10 +8,10 @@ staticDir:
 
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
     - identifier: tags
       name: tags
       url: /tags/
@@ -19,30 +19,62 @@ menu:
     - identifier: archives
       name: archive
       url: /archives/
-      weight: 1
+      weight: 21
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 21
     - identifier: example
       name: example.org
       url: https://example.org
       weight: 30
+    - identifier: about
+      name: about
+      url: /portfolio/about
+      weight: 3
 
 params:
-    # home-info mode
   ShowBreadCrumbs: true
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. 
+  ShowShareButtons: true
+
+  # working home-info mode
+  # homeInfoParams:
+  #   Title: "Join us we make wonderul things."
+  #   Content: >
+  #           Hello, we are TzYi, an indie game developer.
+  #           **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. 
             
 
-            This is a normal paragrah I think!
-            # [Image](/kim_jae_woon.jpg) 
-            PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-  ShowShareButtons: true
-  socialIcons:
-    - name: instagram
-      url: "https://twitter.com/"
-    - name: twitter
-      url: "https://instagram.com"
-    - name: mailchimp
-      url: "https://instagram.com"
+  #           This is a normal paragrah I think!
+  #           # [Image](/kim_jae_woon.jpg) 
+  #           PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+  
+  # socialIcons:
+  #   - name: instagram
+  #     url: "https://twitter.com/"
+  #   - name: twitter
+  #     url: "https://instagram.com"
+  #   - name: itchio
+  #     url: "https://instagram.com"
+
+# Working profile mode if we need it
+# params:
+#   profileMode:
+#       enabled: true
+#       title: "Titltle" # optional default will be site title
+#       subtitle: "This is subtitle"
+#       imageUrl: "/test256.jpg" # optional
+#       imageTitle: "hellos" # optional
+#       imageWidth: 120 # custom size
+#       imageHeight: 120 # custom size
+#       buttons:
+#           - name: Archive
+#             url: "/archives/"
+#           - name: Github
+#             url: "https://github.com/"
+
+#   socialIcons: # optional
+#       - name: instagram
+#         url: "https://github.com/"
+#       - name: itchio
+#         url: "https://github.com/"
