@@ -2,6 +2,12 @@ baseURL: https://www.tzyi.dev
 languageCode: en-us
 title: TZYI
 theme: "PaperMod"
+pluralizelisttitles: false
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 
 staticDir:
     - static
@@ -12,50 +18,52 @@ menu:
     #   name: categories
     #   url: /categories/
     #   weight: 10
+    - identifier: about
+      name: about
+      url: /who/about
+      weight: 1
+    # - identifier: archives
+    #   name: archive
+    #   url: /archives/
+    #   weight: 21
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: archives
-      name: archive
-      url: /archives/
-      weight: 21
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 21
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
-    - identifier: about
-      name: about
-      url: /portfolio/about
-      weight: 3
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
 
 params:
   ShowBreadCrumbs: true
-  ShowShareButtons: true
+  # ShowShareButtons: true
+  defaultTheme: auto
+  ShowFullTextinRSS: true
 
   # working home-info mode
-  # homeInfoParams:
-  #   Title: "Join us we make wonderul things."
-  #   Content: >
-  #           Hello, we are TzYi, an indie game developer.
-  #           **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. 
+  homeInfoParams:
+    Title: "Join us as we make wee wonderful games"
+    Content: >
+            Hello, we are TzYi, an indie game developer based in the UK.  
+            We're making a wee wonderful **turn based strategy** game based on **celtic mythology.**
             
+            - Please bookmark us and follow us on [social media](https://www.instagram.com/tzyi.dev/) to be first to learn of all the secrets about our new game! 
 
-  #           This is a normal paragrah I think!
-  #           # [Image](/kim_jae_woon.jpg) 
-  #           PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
   
-  # socialIcons:
-  #   - name: instagram
-  #     url: "https://twitter.com/"
-  #   - name: twitter
-  #     url: "https://instagram.com"
-  #   - name: itchio
-  #     url: "https://instagram.com"
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/tzyi.dev/"
+    - name: "rss"
+      url: "https://www.tzyi.dev/index.xml"
+    # - name: twitter
+    #   url: "https://instagram.com"
+    # - name: itchio
+    #   url: "https://instagram.com"
 
 # Working profile mode if we need it
 # params:
