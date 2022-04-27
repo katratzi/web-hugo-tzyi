@@ -24,6 +24,3 @@ fields:
   - type: boolean
     name: relative
     label: relative
-pages:
-- content/posts/hello-forestry.md
-- content/posts/matts-vacation.md
