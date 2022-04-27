@@ -17,5 +17,3 @@ fields:
     time_format: 
     display_utc: false
   label: Date
-pages:
-- content/posts/feng-is-rad.md

@@ -24,3 +24,5 @@ fields:
   - type: boolean
     name: relative
     label: relative
+pages:
+- content/posts/holiday-inn-tea-is-nice.md
