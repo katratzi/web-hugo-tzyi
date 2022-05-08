@@ -3,9 +3,9 @@ date = ""
 draft = true
 title = "Our Concept"
 [cover]
-alt = ""
-caption = ""
-image = ""
+alt = "montage of game boxart"
+caption = "Montage of some of favourite turn based strategy games"
+image = "/uploads/00 concept montage.jpg"
 relative = false
 
 +++
