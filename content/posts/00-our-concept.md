@@ -17,7 +17,7 @@ Very quickly we decided that our personal favourite parts of a Civ experience we
 
 As games in the genre start to reach the endgame, a lot of what we consider "the fun stuff" has dried up. The early game flexibility has left, and you're likely committed to a specific course of action. That's not necessarily a bad thing of course, seeing your plans come to fruition can be immensely satisfying, but I am often guilty of booting up a new save file and re-doing the early and mid-game instead of plowing through the remaining 150-200 turns on my original save.
 
-We agreed that the time investment of 4X's endgames can be a bit daunting when you're just looking to have a quick bit of fun. You could have a fantastic early and mid-game, but eventually you're going to have to pick a lane and stick to it for quite some time to see your payoff.
+We agreed that the time investment of 4Xs endgames can be a bit daunting when you're just looking to have a quick bit of fun. You could have a fantastic early and mid-game, but eventually you're going to have to pick a lane and stick to it for quite some time to see your payoff.
 
 And so we thought...
 
