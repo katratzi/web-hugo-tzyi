@@ -1,12 +1,12 @@
 +++
 date = 2022-05-12T09:00:00Z
 title = "Our Concept"
+tags = ["makingof", "concept",]
 [cover]
 alt = "montage of game boxart"
 caption = "Montage of some of favourite turn based strategy games"
 image = "/uploads/00 concept montage.jpg"
 relative = false
-
 +++
 When we initially sat down in a cosy Indian restaurant in Manchester almost a year ago to discuss what kind of game we were interested in making, turn-based strategy was at the forefront. We're fans of a good many titles in the genre, from Star Wars: Supremacy (or "Rebellion" outside the UK!) to Stellaris. As we talked it became clear that we shared a lot of opinions about the genre. Our likes and dislikes aligned, a shared enjoyment of the complexities of these games and a disdain towards the more ponderous elements. So it was that we considered 4X strategy a logical starting point.
 
