@@ -2,7 +2,6 @@
 title: "Welcome to TzyI"
 date: 2022-04-26T12:00:00+00:00
 tags: ["helloworld"]
-weight: 1
 cover:
     image: "/logos/tzyi logo black rect.jpg"
     # can also paste direct link from external site
