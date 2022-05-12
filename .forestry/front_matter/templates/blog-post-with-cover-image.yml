@@ -24,3 +24,7 @@ fields:
   - type: boolean
     name: relative
     label: relative
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
