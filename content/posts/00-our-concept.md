@@ -1,6 +1,5 @@
 +++
-date = ""
-draft = true
+date = 2022-05-12T09:00:00Z
 title = "Our Concept"
 [cover]
 alt = "montage of game boxart"
