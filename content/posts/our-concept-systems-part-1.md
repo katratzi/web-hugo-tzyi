@@ -1,7 +1,7 @@
 +++
 date = 2022-05-27T14:00:00Z
 draft = true
-tags = []
+tags = ["makingof", "design"]
 title = "Our Concept: Systems Part 1"
 [cover]
 alt = ""
