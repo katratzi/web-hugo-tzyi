@@ -1,5 +1,5 @@
 +++
-date = 2022-05-27T14:00:00Z
+date = ""
 draft = true
 tags = ["makingof", "design"]
 title = "Our Concept: Systems Part 1"
