@@ -15,7 +15,7 @@ As mentioned in the previous post, we’d decided to make a 4X game with enough 
 
 **Combat**
 
-Combat was a major sticking point for us, we felt that combat in other 4X games tended to get a bit bogged down, so we wanted to make a system that combined more arcadey aspects with unit management aspects. We looked to Advance Wars for the streamlined approach, but expanded that out across multiple units within each army clashing in combat rounds, with breaks in-between rounds for the player to take action.
+Combat was a major sticking point for us, we felt that combat in other 4X games tended to get a bit bogged down, so we wanted to make a system that combined more arcade-y aspects with unit management aspects. We looked to Advance Wars for the streamlined approach, but expanded that out across multiple units within each army clashing in combat rounds, with breaks in-between rounds for the player to take action.
 
 ![](/uploads/aw.png)
 
