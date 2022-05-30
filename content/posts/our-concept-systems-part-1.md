@@ -4,8 +4,8 @@ tags = ["makingof", "design"]
 title = "Our Concept: Systems Part 1"
 [cover]
 alt = ""
-caption = ""
-image = ""
+caption = "Advance Wars, a big inspiration for us!"
+image = "/uploads/aw-cover-1.png"
 relative = false
 
 +++
@@ -39,7 +39,7 @@ The three aspects we’re focusing on are Conflict, Commerce and Exploration. Ea
 
 ![](/uploads/wow.png)
 
-**An example of talent trees from Classic World of Warcraft, allowing the player to allocate points in each tree**
+###### An example of talent trees from Classic World of Warcraft, allowing the player to allocate points in each tree
 
 With this system, we’ve opted to go for a “Skill Point” system instead of a more traditional research-based one. Players will receive a skill point for accomplishing certain early-game tasks, such as winning a small battle, fully exploring their starting region, upgrading their town etc. Once this list of early-game tasks has been exhausted, a steady flow of points will be provided, every positive player action filling up a progress bar to award more points.
 
