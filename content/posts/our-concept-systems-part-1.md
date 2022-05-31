@@ -17,7 +17,7 @@ As mentioned in the previous post, we’d decided to make a 4X game with enough 
 
 Combat was a major sticking point for us, we felt that combat in other 4X games tended to get a bit bogged down, so we wanted to make a system that combined more arcade-y aspects with unit management aspects. We looked to Advance Wars for the streamlined approach, but expanded that out across multiple units within each army clashing in combat rounds, with breaks in-between rounds for the player to take action.
 
-![](/uploads/aw.png)
+![](/uploads/aw.png#center)
 
 ###### The Advance Wars battle screen, both sides exchange a volley and take casualties in around 2-3 seconds
 
@@ -27,7 +27,7 @@ We’re in the middle of testing a few different ideas for combat, two competing
 
 No 4X game would be complete without a Tech Tree style system! Normal progression through a 4X title usually involves researching different technologies over a number of turns that unlock various units and buildings when completed. These then branch off down a sprawling tree, creating a “critical path” that you must traverse in order to unlock later technologies.
 
-###### ![](/uploads/civ.png)
+###### ![](/uploads/civ.png#center)
 
 ###### The Civilization V tech tree, completed technologies in gold, available technologies in green
 
@@ -37,7 +37,7 @@ The three aspects we’re focusing on are Conflict, Commerce and Exploration. Ea
 
 ###### 
 
-![](/uploads/wow.png)
+![](/uploads/wow.png#center)
 
 ###### An example of talent trees from Classic World of Warcraft, allowing the player to allocate points in each tree
 
