@@ -26,3 +26,7 @@ In each of these scenarios you'll be asked to field an army of units to defeat t
 Once you've assembled your army of units, select which type of unit to buff on your side in the top left and click "playBattle" to engage in a round of combat. Repeat this process until one side is victorious!
 
 We look forward to hearing your feedback!
+
+## Update 
+
+The BattleTest has now been removed from itch.io.  Many thanks for those of you that participated and provided feedback.  :)
