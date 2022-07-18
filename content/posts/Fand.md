@@ -1,8 +1,8 @@
 +++
-date = ""
+date = 2022-07-17T16:00:00Z
 draft = true
-tags = []
-title = ""
+tags = ["design", " art", " concept", "lore"]
+title = "Fand - Goddess of the Mists"
 [cover]
 alt = ""
 caption = ""
