@@ -7,9 +7,14 @@ alt = "cover image for paper jumper game"
 image = "/uploads/paper-jumper-cover.jpg"
 relative = false
 +++
-Something a little different, I made a wee platformer game!  So we are developing in Unity, but recently I was curious to see what Godot was like for development and I thought best way to test it out was to make a small game. Presenting [Paper Jumper!](https://tzyi.itch.io/paper-jumper). It's a very simple wee platformer and was fun to put together, please have a go and leave your thoughts over at itch.io.
+Something a little different, I made a wee platformer game!  So we are developing in Unity, but recently I was curious to see what Godot was like for development and I thought best way to test it out was to make a small game. 
 
-![](/uploads/paper-jumper-clip.gif#center)
+Presenting - [Paper Jumper!](https://tzyi.itch.io/paper-jumper) - Play now on itch.io!
+
+It's a very simple wee platformer and was fun to put together, please have a go and leave your thoughts over at itch.io.
+
+[![Paper Jumper Gif](/uploads/paper-jumper-clip.gif#center)](https://tzyi.itch.io/paper-jumper)
+
 
 ## Godot early thoughts
 
