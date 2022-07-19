@@ -17,7 +17,7 @@ Mechanically each of these skill trees is tied to a different aspect of gameplay
 
 Today we’re showcasing the art we have for the Goddess that governs Exploration, Fand:
 
-{{< figure src="/uploads/fand_bw.jpg#center" title="A black & white drawing of Fand, Goddess of the Mists" >}}
+{{< figure align=center src="/uploads/fand_bw.jpg" title="A black & white drawing of Fand, Goddess of the Mists" >}}
 
 We initially commissioned a black & white concept piece of each of our Goddesses. The art brief we provided is below:
 
@@ -33,7 +33,7 @@ Fand is a relatively minor figure in Celtic Mythology. She features most promine
 
 In the story, Cúchulainn attacks Fand and her sister by throwing stones at them in their bird forms. For this, they whip him to the point of near-death, incapacitating him for a year. Eventually Cúchulainn atones for his actions by aiding Fand in defending her otherworldly home, and the two become lovers.
 
-{{< figure src="/uploads/fand_col_trio.jpg#center" title="Fand with more complex colouring and linework" >}}
+{{< figure align=center src="/uploads/fand_col_trio.jpg" title="Fand with more complex colouring and linework" >}}
 
 <!-- {{< figure src="/uploads/fand_col_basic.jpg#center" title="The first colour drawing of Fand" >}} -->
 
