@@ -1,5 +1,5 @@
 +++
-date = 2022-08-02T14:00:00Z
+date = 2022-08-02T14:32:00Z
 tags = ["design", "art", "concept", "lore"]
 title = "Morrigan - Goddess of War & Fate"
 [cover]
