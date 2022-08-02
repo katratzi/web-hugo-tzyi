@@ -35,11 +35,11 @@ _Above the other hand floats shreds of paper covered in celtic runes, prophetic 
 
 While our previous Goddess Fand was a relatively minor figure in Celtic Mythology, Morrigan plays a much more central role. Often referred to as “The Morrigan”, she often takes the appearance of a crow, a bird associated with omens and foretelling. She features in both the Ulster Cycle and the Mythological Cycle in Irish Mythology as a harbinger of war and fate, interacting with many key figures, including Cúchulainn as Fand did.
 
-<!-- {{< figure src="/uploads/morrigan_col_red.jpg#center" title="The first colour drawing of Morrigan" >}}
+{{< figure align=center src="/uploads/morrigan_col_red.jpg#center" title="The first colour drawing of Morrigan" >}}
 
 We initially received a more red-toned version of Morrigan, and while it looked good, we wanted a slightly darker tone for our Goddess, incorporating purples and a darker hair colour while also fleshing out the background.
 
-<!-- <{{< figure src="/uploads/morrigan____final.jpg#center" title="Final Colour for Morrigan">}}
+{{< figure align=center src="/uploads/morrigan_col_final.jpg#center" title="Final Colour for Morrigan">}}
 
 This was the final piece that we decided to go with. We loved how different the colour piece of Morrigan turned out when compared and contrasted with Fand. The striking differences between the two give them their own distinct identity.
 
