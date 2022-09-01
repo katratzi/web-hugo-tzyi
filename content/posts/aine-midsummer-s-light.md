@@ -49,7 +49,7 @@ We kept our request short and sweet, requesting Áine be stood in a verdant mead
 
 Happy with how the initial background turned out, we decided to press forward and get the piece finalised. We felt this was a perfect final piece to complete our trio of goddesses, and the Celtic glyphs and patterns added in the background of each of the three really tied them together.
 
-{{< figure align=center src="/uploads/aine_bg_col_final.jpg" title="Final background colouring for Áine" >}}
+{{< figure align=center src="/uploads/aine_col_final.jpg" title="Final background colouring for Áine" >}}
 
 With our trio of goddesses standing ready, we’re excited to continue showing you more of what we’ve been working on! Please keep your eyes peeled for more content as we continue our wee adventure in making a Celtic strategy game!
 
