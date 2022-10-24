@@ -13,3 +13,16 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 .logo {
     font-family: "Plaster", "Roboto", Helvetica, Arial, sans-serif;
 }
+
+
+.post-content blockquote p {
+    margin: 0.25em;
+}
+
+.post-content blockquote {
+    padding: 0em 1em;
+    font-weight: bold;
+    text-align: center;
+    border: solid var(--border);
+    border-width: 1px 0px;
+}
