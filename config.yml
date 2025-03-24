@@ -54,6 +54,9 @@ params:
   # ShowShareButtons: true
   defaultTheme: auto
   ShowFullTextinRSS: true
+  mainSections:
+    - posts
+    - apps
 
   # working home-info mode
   homeInfoParams:
