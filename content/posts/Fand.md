@@ -1,7 +1,7 @@
 +++
 date = 2022-07-17T16:00:00Z
 draft = false
-tags = ["design", " art", " concept", "lore"]
+tags = ["design", "art", " concept", "lore"]
 title = "Fand - Goddess of the Mists"
 [cover]
 alt = "fand goddess of mist"
