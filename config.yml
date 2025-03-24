@@ -56,7 +56,6 @@ params:
   ShowFullTextinRSS: true
   mainSections:
     - posts
-    - apps
 
   # working home-info mode
   homeInfoParams:
@@ -82,8 +81,8 @@ params:
 # params:
 #   profileMode:
 #       enabled: true
-#       title: "Titltle" # optional default will be site title
-#       subtitle: "This is subtitle"
+#       title: "TzYi" # optional default will be site title
+#       subtitle: "Building Wee Wonderful Apps"
 #       imageUrl: "/test256.jpg" # optional
 #       imageTitle: "hellos" # optional
 #       imageWidth: 120 # custom size
