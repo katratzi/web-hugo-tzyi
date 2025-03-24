@@ -17,3 +17,9 @@ Run locally with
     ![](/uploads/aw.png#center)
 
     {{< figure align=center src="/uploads/aw.png" title="Hello World" >}}
+
+
+Link: [Text](URL)
+Image: ![Alt Text](URL)
+
+Linked image: [![Alt Text](Image URL)](Link URL)

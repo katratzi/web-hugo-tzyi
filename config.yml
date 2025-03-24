@@ -12,6 +12,12 @@ outputs:
 staticDir:
     - static
 
+# allow me to add custom html tags into text
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
     # - identifier: categories
@@ -22,6 +28,10 @@ menu:
       name: about
       url: /who/about
       weight: 1
+    - identifier: apps
+      name: ios apps
+      url: /apps/
+      weight: 10
     # - identifier: archives
     #   name: archive
     #   url: /archives/
@@ -29,11 +39,11 @@ menu:
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 30
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
