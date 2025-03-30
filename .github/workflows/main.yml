@@ -22,11 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Site is built with https://gohugo.io, setup
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
       
@@ -36,7 +36,7 @@ jobs:
       
       # ftp copy the files from the /public/ folder to my server
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ftp.katratzi.com
           username: ${{ secrets.USERNAME }}
