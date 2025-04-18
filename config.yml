@@ -59,12 +59,12 @@ params:
 
   # working home-info mode
   homeInfoParams:
-    Title: "Join us as we make wee wonderful games"
+    Title: "Join us as we make wee wonderful apps"
     Content: >
-            Hello, we are TzYi, an indie game developer based in the UK.  
-            We're making a wee wonderful **turn based strategy** game based on **celtic mythology.**
+            Hello and welcome to TzYi, an indie developer based in Scotland.  Originally formed to make a
+             **turn based strategy** game based on **celtic mythology.**  Now this is my little spot on the
+             web to sporadically post about development, focusing mainly on **SwiftUI** projects.  
             
-            - Please bookmark us and follow us on [social media](https://www.instagram.com/tzyi.dev/) to be first to learn of all the secrets about our new game! 
 
   
   socialIcons:

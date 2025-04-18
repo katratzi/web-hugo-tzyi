@@ -1,13 +1,13 @@
-+++
-title = "Ratings by TzYi"
-weight = 10
-tags = ["ios app", "swiftui"]
-[cover]
-alt = "Ratings by Tzyi"
-caption = ""
-image = "/ratings/ratings_cover.jpg"
-relative = false
-+++
+---
+title: "Ratings by TzYi"
+weight: 20
+tags: ["ios app", "swiftui"]
+cover:
+  alt: "Ratings by Tzyi"
+  caption: ""
+  image: "/ratings/ratings_cover.jpg"
+  relative: false
+---
 
 A wee wonderful app designed to make rating and remembering things easy. Syncs across your devices with iCloud.  Available for both iPhone and iPad.
 
