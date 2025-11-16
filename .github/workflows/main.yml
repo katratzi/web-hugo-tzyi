@@ -7,10 +7,10 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # Every Mon, Wed, Fri at 10AM UTC (5AM EST)
+    # Every Monday at 10AM UTC (5AM EST)
     - cron: 0 10 * * 1
-    - cron: 0 10 * * 3
-    - cron: 0 10 * * 5
+    # - cron: 0 10 * * 3
+    # - cron: 0 10 * * 5
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -38,7 +38,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ftp.katratzi.com
+          server: server27.shared.spaceship.host
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           local-dir: ./public/
