@@ -1,6 +1,6 @@
 +++
 title = "Privacy Policy"
-weight = 30
+weight = 999
 [cover]
 caption = ""
 relative = false
