@@ -1,6 +1,6 @@
 +++
 title = "Fitness by TzYi"
-weight = 40
+weight = 50
 tags = ["ios app", "swiftui", "fitness"]
 [cover]
 alt = "Fitness by TzYi"

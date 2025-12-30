@@ -1,6 +1,6 @@
 ---
 title: "Chapters by TzYi"
-weight: 10
+weight: 20
 tags: ["ios app", "swiftui", "chapters"]
 cover:
   alt: "Chapters by Tzyi"
