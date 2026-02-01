@@ -1,6 +1,6 @@
 ---
 title: "Pause by TzYi"
-weight: 10
+weight: 20
 tags: ["ios app", "safari", "pause"]
 cover:
   alt: "Pause by Tzyi"

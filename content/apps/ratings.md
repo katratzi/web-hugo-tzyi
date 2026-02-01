@@ -1,6 +1,6 @@
 ---
 title: "Ratings by TzYi"
-weight: 40
+weight: 50
 tags: ["ios app", "swiftui"]
 cover:
   alt: "Ratings by Tzyi"
