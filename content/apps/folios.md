@@ -9,8 +9,9 @@ cover:
   relative: false
 ---
 
-A wee wonderful app designed to organize and curate your photo collections with powerful tagging. Your library syncs with iCloud, so your albums are available across all your Apple devices. Built for iPhone, iPad and Mac with a beautiful masonry layout and tag filtering. 
+A wee wonderful app designed to organize and curate your photo collections with powerful tagging. Your library syncs with iCloud, so your albums are available across all your Apple devices. Built for iPhone, iPad and Mac with a beautiful masonry layout and tag filtering.
 
+{{< figure align=center src="/appstore/white.svg" link="https://apps.apple.com/us/app/folios-by-tzyi/id6758107784" alt="Download on the App Store" >}}
 
 ## How To Use
 
@@ -26,7 +27,7 @@ Once inside an album, tap 'Edit' to enter edit mode where you can add photos fro
 
 Double-tap any photo to mark it as a favourite - these special photos can be quickly accessed later from the dedicated Favourites view.
 
-{{< figure align=center src="/folios/2_tags.jpg" title="Tag-based filtering in action" >}}
+{{< figure align=center src="/folios/2_tags.jpg" title="Beautiful layout with tag-based sorting." >}}
 
 ### 3) Powerful Tagging System
 
@@ -57,6 +58,8 @@ I hope you enjoy using the app, if you have any feedback for features you'd love
 
 > tankers_chat0v@icloud.com
 
+### Try It Out!
 
+Organise your photos your way, and enjoy them in peace. [ App Store](https://apps.apple.com/us/app/folios-by-tzyi/id6758107784).
 
 <!-- {{< figure align=center src="/folios/4_ipad_layout.jpg" title="iPad layout with sidebar" >}} -->

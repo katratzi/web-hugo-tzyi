@@ -1,0 +1,9 @@
+/* Centered figure links: shrink to image width, pointer cursor only on the image */
+.post-content figure.align-center>a {
+  cursor: pointer;
+}
+
+.post-content figure.align-center>a img {
+  display: block;
+  cursor: pointer;
+}

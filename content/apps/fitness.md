@@ -10,7 +10,9 @@ relative = false
 +++
 
 
-A wee wonderful app designed to make tracking your gym workouts a breeze. This app offers all the core features...with no limits...entirely FREE ensuring you have all the tools you need to enhance your fitness journey.
+A wee wonderful app for tracking gym workouts — all the core features, no limits, entirely free. Exercises, sets, rest timer, and achievements to keep you going.
+
+{{< figure align=center src="/appstore/white.svg" link="https://apps.apple.com/us/app/fitness-by-tzyi/id6473851299" alt="Download on the App Store" >}}
 
 ## Support
 
@@ -52,4 +54,8 @@ Month 1 to 3 - The first workout performed for a month earns you this achievemen
 
 See the record of your workouts from here, you can tap on any of them to get more details or the workout performed. There are also a suite of useful tools to check out. A handy feedback form for feature requests.
 
-Sticker Shop - Want to refresh the look of the achievements? Buy some more stickers from the shop here and enjoy checking out collection in the achievements page :) 
+Sticker Shop - Want to refresh the look of the achievements? Buy some more stickers from the shop here and enjoy checking out collection in the achievements page :)
+
+### Try It Out!
+
+Your fitness journey, your data.  Good luck collecting those achievement badges. [ App Store](https://apps.apple.com/us/app/fitness-by-tzyi/id6473851299).

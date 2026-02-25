@@ -9,15 +9,9 @@ cover:
   relative: false
 ---
 
-A wee wonderful app designed to make rating and remembering things easy. Syncs across your devices with iCloud.  Available for both iPhone and iPad.
+A wee wonderful app for rating and remembering anything — movies, snacks, trips, whatever you like. Syncs with iCloud on iPhone and iPad.
 
-Download it now from the [App Store](https://apps.apple.com/gb/app/ratings-by-tzyi/id6476983201).
-
-## Support
-
-I hope you enjoy using the app, if you have any feedback for features you'd love to see or require any other assistance please get in touch.
-
-> tankers_chat0v@icloud.com
+{{< figure align=center src="/appstore/white.svg" link="https://apps.apple.com/us/app/ratings-by-tzyi/id6476983201" alt="Download on the App Store" >}}
 
 ## How To Use
 
@@ -39,3 +33,13 @@ Here is a short walkthrough :)
     <source src="/ratings/walkthrough.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+## Support
+
+I hope you enjoy using the app. If you have any feedback or need assistance, please get in touch.
+
+> tankers_chat0v@icloud.com
+
+### Try It Out!
+
+Rate it, remember it. [ App Store](https://apps.apple.com/us/app/ratings-by-tzyi/id6476983201).

@@ -10,8 +10,9 @@ cover:
 draft: false
 ---
 
-A wee wonderful app for writing your next novel.  Minimalist and cross platform. 
+A wee wonderful app for writing your next novel. Minimalist and cross platform — write on iPhone, iPad, or Mac with iCloud sync.
 
+{{< figure align=center src="/appstore/white.svg" link="https://apps.apple.com/us/app/chapters-by-tzyi/id6754342834" alt="Download on the App Store" >}}
 
 ## How to Use
 
@@ -50,4 +51,9 @@ Once you're finished with masterpiece you are likely to want to save it for fina
 I hope you enjoy using the app, good luck with your next story. For any other issues, please get in touch with the following email.
 
 > tankers_chat0v@icloud.com
+
+### Try It Out!
+
+Start writing your next great story now — [ App Store](https://apps.apple.com/us/app/chapters-by-tzyi/id6754342834).
+
 

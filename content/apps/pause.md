@@ -14,6 +14,8 @@ Sometimes all you need is a pause. Pause by TzYi helps you break the reflex of d
 
 No blocking. No guilt. Just a moment of space between impulse and action.
 
+{{< figure align=center src="/appstore/white.svg" link="https://apps.apple.com/us/app/pause-by-tzyi/id6756827259" alt="Download on the App Store" >}}
+
 ## How to Use
 
 Pause is a lightweight Safari extension that gives you a moment of reflection before visiting distracting websites. Start by adding the sites you want to pause, then customize your delay and messages to create a mindful browsing experience.
@@ -45,3 +47,7 @@ Add personalized mindfulness messages that will appear during the pause. These g
 I hope you enjoy using Pause to create more mindful moments in your day. For any other issues, please get in touch with the following email.
 
 > tankers_chat0v@icloud.com
+
+### Try It Out!
+
+A little pause can change your day. [ App Store](https://apps.apple.com/us/app/pause-by-tzyi/id6756827259).

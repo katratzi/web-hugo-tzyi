@@ -10,8 +10,9 @@ cover:
 draft: false
 ---
 
-A wee wonderful app for rolling dice, just in case you forgot to brings yours. 
+A wee wonderful app for rolling dice, just in case you forgot to bring yours.
 
+{{< figure align=center src="/appstore/white.svg" link="https://apps.apple.com/us/app/dice-by-tzyi/id6739798590" alt="Download on the App Store" >}}
 
 ## How to Use
 
@@ -36,4 +37,8 @@ If you want to *delete* a save board just swipe to the right.  Swiping to the le
 I hope you enjoy using the app, for any other issues you get in touch with the following email.
 
 > tankers_chat0v@icloud.com
+
+### Try It Out!
+
+Never without dice again. Roll, save your boards, and get back to the game. [ App Store](https://apps.apple.com/us/app/dice-by-tzyi/id6739798590).
 
