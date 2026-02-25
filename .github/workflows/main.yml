@@ -28,9 +28,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          # Pin version: 'latest' can pull builds where --minify is very slow
+          hugo-version: '0.147.7'
       
       # perform a hugo build step for publishing
+      # Minify only HTML/CSS/JS; XML/JSON minification is slow and often problematic
       - name: Build
         run: hugo --minify
       
