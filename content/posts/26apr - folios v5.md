@@ -1,7 +1,7 @@
 ---
 title: "Folios - cover up"
 date: 2026-04-22T16:25:42+01:00
-draft: true
+draft: false
 tags: ["folios", "ios app", "swiftui", "release notes"]
 ---
 
