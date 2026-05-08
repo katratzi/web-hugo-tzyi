@@ -1,7 +1,7 @@
 ---
 title: "Folios - data optimisation"
 date: 2026-05-01T12:00:01+01:00
-draft: true
+draft: false
 tags: ["folios", "ios app", "release notes"]
 ---
 
