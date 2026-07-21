@@ -1,5 +1,5 @@
 ---
-title: "Fitness - Rest Assured"
+title: "Fitness - rest assured"
 date: 2026-07-09T06:25:00+01:00
 draft: false
 tags: ["fitness", "ios app", "release notes"]
