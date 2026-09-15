@@ -56,8 +56,8 @@ menu:
 
 params:
   # Required for RSS; avoids deprecated site.Author (removed in Hugo 0.156+)
-  author:
-    name: TzYi
+  author: TzYi
+  hideAuthor: true
   ShowBreadCrumbs: true
   # ShowShareButtons: true
   defaultTheme: auto
