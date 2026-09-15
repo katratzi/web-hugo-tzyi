@@ -1,6 +1,6 @@
 ---
 title: "Ratings - back up"
-date: 2026-09-15T12:00:00+01:00
+date: 2026-09-15T08:00:00+01:00
 draft: false
 tags: ["ratings", "ios app", "release notes"]
 ---

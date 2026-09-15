@@ -1,44 +1,48 @@
-# This is a basic workflow to help you get started with Actions
 name: CI
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
-  # schedule:
-  #   # Every Monday at 10AM UTC (5AM EST)
-  #   - cron: 0 10 * * 1
-  #   - cron: 0 10 * * 3
-  #   - cron: 0 10 * * 5
-
-  # Allows you to run this workflow manually from the Actions tab
+    branches: [master]
+  pull_request:
+    branches: [master]
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+permissions:
+  contents: read
+
+# Serialize deployments so an older upload cannot overwrite a newer one.
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   hugo-build-deploy:
-    name: 🎉 Deploy
-    runs-on: ubuntu-latest
+    name: Build and deploy
+    runs-on: ubuntu-24.04
+    timeout-minutes: 2
     steps:
-      - name: 🚚 Get latest code
-        uses: actions/checkout@v4
-
-      # Site is built with https://gohugo.io, setup
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+      - name: Check out site
+        uses: actions/checkout@v7.0.1
         with:
-          # Pin version: 'latest' can pull builds where --minify is very slow
-          hugo-version: '0.147.7'
-      
-      # perform a hugo build step for publishing
-      # Minify only HTML/CSS/JS; XML/JSON minification is slow and often problematic
+          persist-credentials: false
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3.2.1
+        with:
+          # Match the tested local version; upgrade deliberately, not via latest.
+          hugo-version: '0.164.0'
+          extended: true
+
       - name: Build
-        run: hugo --minify
-      
-      # ftp copy the files from the /public/ folder to my server
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        timeout-minutes: 1
+        run: |
+          hugo version
+          timeout --signal=KILL 30s hugo --minify --logLevel info --printPathWarnings
+
+      - name: Sync files
+        timeout-minutes: 1
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: server27.shared.spaceship.host
           username: ${{ secrets.USERNAME }}

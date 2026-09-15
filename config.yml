@@ -1,5 +1,5 @@
 baseURL: https://www.tzyi.dev
-languageCode: en-us
+locale: en-US
 title: TZYI
 theme: "PaperMod"
 pluralizelisttitles: false
@@ -8,6 +8,11 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+# Disable minification for XML/JSON to avoid very slow builds (RSS/JSON minify is a known bottleneck)
+minify:
+  disableXML: true
+  disableJSON: true
 
 staticDir:
     - static
@@ -50,6 +55,9 @@ menu:
     #   weight: 30
 
 params:
+  # Required for RSS; avoids deprecated site.Author (removed in Hugo 0.156+)
+  author:
+    name: TzYi
   ShowBreadCrumbs: true
   # ShowShareButtons: true
   defaultTheme: auto
