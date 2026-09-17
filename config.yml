@@ -67,11 +67,11 @@ params:
 
   # working home-info mode
   homeInfoParams:
-    Title: "Join us as we make wee wonderful apps"
+    Title: "Join me as I make wee wonderful apps"
     Content: >
-            Hello and welcome to TzYi, an indie developer based in Scotland.  Originally formed to make a
-             **turn based strategy** game based on **celtic mythology.**  Now this is my little spot on the
-             web to sporadically post about development, focusing mainly on **SwiftUI** projects.  
+            Welcome to **TzYi**, my little corner of the web. I'm a solo developer based in Scotland,
+            mostly focused on **iOS apps** with **SwiftUI**. Here I share what I'm making, what I'm learning,
+            and the occasional detour along the way.
             
 
   
