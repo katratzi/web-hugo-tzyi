@@ -80,8 +80,6 @@ params:
       url: "https://www.instagram.com/tzyi.dev/"
     - name: itchio
       url: "https://tzyi.itch.io"
-    - name: linkedin
-      url: "https://www.linkedin.com/company/tzyi/"
     - name: "rss"
       url: "https://www.tzyi.dev/index.xml"
 
