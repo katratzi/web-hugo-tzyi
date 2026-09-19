@@ -1,7 +1,7 @@
 ---
 title: "Chapters - snapshot in time"
 date: 2026-09-19T11:00:00+01:00
-draft: true
+draft: false
 tags: ["chapters", "ios app", "release notes"]
 ---
 
