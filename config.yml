@@ -78,6 +78,10 @@ params:
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/tzyi.dev/"
+    - name: threads
+      url: "https://www.threads.com/@tzyi.dev"
+    - name: bluesky
+      url: "https://bsky.app/profile/tzyi-dev.bsky.social"
     - name: itchio
       url: "https://tzyi.itch.io"
     - name: "rss"
