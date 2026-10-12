@@ -1,6 +1,6 @@
 ---
 title: "Folios by TzYi"
-weight: 10
+weight: 11
 tags: ["ios app", "swiftui", "folios"]
 cover:
   alt: "Folios by Tzyi"
